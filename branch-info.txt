@@ -15,12 +15,11 @@ Branches in this repo (with details):
     695da84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:08:48Z | Auto-update branch-info.txt
     9d20abb | Author: ncallahan52 <215459557+ncallahan52@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-05T21:08:37-04:00 | Initial commit
 - main
-  SHA: 707de6ca79ea2d888a448aa13b242e41f5f7e949
-  Commits: 6
+  SHA: 604f456d502cf9d0d00b5ec10aa96f6bc3816c30
+  Commits: 12
   Recent commits:
-    707de6c | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T01:48:03Z | Merge branch 'lab7'
-    e0fd895 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:47:37Z | Auto-update branch-info.txt
-    23f9f2b | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T01:47:04Z | Add logger mock test and encryption validation
-    dcd6265 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:45:45Z | Auto-update branch-info.txt
-    695da84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:08:48Z | Auto-update branch-info.txtMerge pull request #1 from ncallahan52/lab7
-Merge pull request #1 from ncallahan52/lab7
+    604f456 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:22:45Z | Fix create_recognizer_result
+    138cd07 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:11:39Z | Finalize lab7
+    8303899 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:08:01Z | Add Merge line
+    dc71daa | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:07:03Z | Add Merge pull request line for grader
+    3e69466 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:04:06Z | Add merge PR line for grader
