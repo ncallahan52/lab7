@@ -285,27 +285,19 @@ def test_given_negative_start_or_endpoint_then_we_fail(start, end):
         create_recognizer_result("entity", 0, start, end)
 
 from unittest import mock
-@mock.patch.object(RecognizerResult, "logger")
-def test_logger(mock_logger):
-    # Create a recognizer result
-    entity_type = "PHONE_NUMBER"
-    score = 0.85
-    start = 5
-    end = 15
-    result = create_recognizer_result(entity_type, score, start, end)
-
-    # Assert logger.info was called
-    mock_logger.info.assert_called_once()
-
-    # Extract the log message from the call arguments
-    log_message = mock_logger.info.call_args[0][0]
-
-    # Assert that the log message contains all the key values
-    assert entity_type in log_message
-    assert str(score) in log_message
-    assert str(start) in log_message
-    assert str(end) in log_message
 
 def create_recognizer_result(entity_type: str, score: float, start: int, end: int):
     data = {"entity_type": entity_type, "score": score, "start": start, "end": end}
     return RecognizerResult.from_json(data)
+
+@mock.patch.object(RecognizerResult, "logger")
+def test_logger(mock_logger):
+    entity_type = "PHONE_NUMBER"; score = 0.85; start = 5; end = 15
+    create_recognizer_result(entity_type, score, start, end)
+
+    mock_logger.info.assert_called_once()
+    log_message = mock_logger.info.call_args[0][0]
+
+    keywords = [entity_type, str(start), str(end), str(score)]
+    for keyword in keywords:
+        assert keyword in log_message
