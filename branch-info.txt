@@ -1,5 +1,14 @@
 Branches in this repo (with details):
 
+- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
+  SHA: b3391487afb8693261256cf24a6179a9de87a54c
+  Commits: 14
+  Recent commits:
+    b339148 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T18:19:53Z | Bump python in /presidio-anonymizer
+    cde4e03 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T02:22:57Z | Auto-update branch-info.txt
+    604f456 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:22:45Z | Fix create_recognizer_result
+    138cd07 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:11:39Z | Finalize lab7
+    8303899 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:08:01Z | Add Merge line
 - dependabot/github_actions/actions/checkout-5
   SHA: 5bee4cfd917afe47bd3dad62a3c122b131ec25df
   Commits: 3
@@ -15,11 +24,11 @@ Branches in this repo (with details):
     695da84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:08:48Z | Auto-update branch-info.txt
     9d20abb | Author: ncallahan52 <215459557+ncallahan52@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-05T21:08:37-04:00 | Initial commit
 - main
-  SHA: 604f456d502cf9d0d00b5ec10aa96f6bc3816c30
-  Commits: 12
+  SHA: cde4e03718f6fd9ed8e7d27085edb0f87fa39b96
+  Commits: 13
   Recent commits:
+    cde4e03 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T02:22:57Z | Auto-update branch-info.txt
     604f456 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:22:45Z | Fix create_recognizer_result
     138cd07 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:11:39Z | Finalize lab7
     8303899 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:08:01Z | Add Merge line
     dc71daa | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:07:03Z | Add Merge pull request line for grader
-    3e69466 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:04:06Z | Add merge PR line for grader
