@@ -1,14 +1,14 @@
 Branches in this repo (with details):
 
-- dependabot/docker/presidio-anonymizer/python-3.14-windowsservercore
-  SHA: b3391487afb8693261256cf24a6179a9de87a54c
-  Commits: 14
+- dependabot/docker/presidio-anonymizer/python-3.15.0a5-windowsservercore
+  SHA: fc5e348d7a4954d9a1e6f2d41f3c87081120d677
+  Commits: 16
   Recent commits:
-    b339148 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-11-01T18:19:53Z | Bump python in /presidio-anonymizer
+    fc5e348 | Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2026-02-01T18:57:57Z | Bump python in /presidio-anonymizer
+    ea0e12b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T19:01:41Z | Auto-update branch-info.txt
+    71303c5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T18:20:01Z | Auto-update branch-info.txt
     cde4e03 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T02:22:57Z | Auto-update branch-info.txt
     604f456 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:22:45Z | Fix create_recognizer_result
-    138cd07 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:11:39Z | Finalize lab7
-    8303899 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:08:01Z | Add Merge line
 - dependabot/github_actions/actions/checkout-6
   SHA: dc6c24bf20cb1a6a1fa9c1d5b3a4a0b00e9fb53a
   Commits: 15
@@ -26,11 +26,11 @@ Branches in this repo (with details):
     695da84 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T01:08:48Z | Auto-update branch-info.txt
     9d20abb | Author: ncallahan52 <215459557+ncallahan52@users.noreply.github.com> | Committer: GitHub <noreply@github.com> | Date: 2025-10-05T21:08:37-04:00 | Initial commit
 - main
-  SHA: 71303c55600b8fa3040e8d635dc3be5fc1aef46b
-  Commits: 14
+  SHA: ea0e12b2b3f40fec6198c1ff96781b7ce7fbf200
+  Commits: 15
   Recent commits:
+    ea0e12b | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-24T19:01:41Z | Auto-update branch-info.txt
     71303c5 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-11-01T18:20:01Z | Auto-update branch-info.txt
     cde4e03 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-10-06T02:22:57Z | Auto-update branch-info.txt
     604f456 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:22:45Z | Fix create_recognizer_result
     138cd07 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:11:39Z | Finalize lab7
-    8303899 | Author: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Committer: Nicholas Callahan <ncallahan52@users.noreply.github.com> | Date: 2025-10-06T02:08:01Z | Add Merge line
